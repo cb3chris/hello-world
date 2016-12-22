@@ -1,4 +1,2 @@
-# hello-world
-just another repository,
-you know what they say
-Another day Another dollar
+#I need a general idea of how to code please help me
+pleas tellme the basics it will help a lot
